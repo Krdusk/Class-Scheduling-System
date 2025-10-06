@@ -47,7 +47,6 @@ The system allows users to:
 | `README.md` | Project overview, setup guide, and documentation summary. |
 | `Documentation.pdf` | Official NU-format documentation containing introduction, explanation of data structure, sample input/output, limitations, and future enhancements. |
 | `Screenshots/` | Folder containing sample outputs and menu screenshots from the console. |
-| `.vscode/` *(optional)* | Visual Studio Code configuration files if applicable. |
 
 ---
 
