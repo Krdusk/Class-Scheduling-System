@@ -1,57 +1,47 @@
-# Class Scheduling System
+6. Follow the on-screen options to add, search, edit, delete, or view class schedules.
 
 ---
 
-## Project Overview:
-The **Class Scheduling System** is a console-based educational program developed as a **Final Project** for the course **Data Structures and Algorithms (DSA)**.  
-It demonstrates the use of **HashMap** and **Object-Oriented Programming (OOP)** principles in organizing, storing, and managing class schedules efficiently.
-
-Although the **NU Information System (NUIS)** already provides an automated scheduling platform, this project was created to simulate how such systems operate internally through **data structures and algorithms**.  
-It aims to help students understand how efficient data access, modification, and organization work in real-world applications.
-
----
-
-## Industry Application:
-**Industry:** Education  
-**Application:** Class and Course Scheduling for Students and Professors  
-
-The system allows users to:
-- Add new class schedules  
-- Edit existing schedules  
-- Search for schedules using the course code  
-- Delete schedules when no longer needed  
-- View all schedules in an organized, tabular format  
+## Project Requirements (as per DSA Instructions):
+This project fulfills all required objectives:
+1. Input Handling – Accepts user input via Scanner.  
+2. Data Storage – Utilizes a HashMap to store and organize schedule data.  
+3. Core Operations – Supports insertion, search, deletion, traversal, and editing.  
+4. Clear Output – Displays all results in a formatted, readable table.  
 
 ---
 
-## Data Structure Used:
-- **HashMap** – Stores schedules efficiently using the course code as a unique key.  
-  - Enables constant-time complexity (O(1)) for insertion, search, and deletion.  
-- **ArrayList** – Used to sort course codes alphabetically for display.  
-- **OOP Concepts** – A `Schedule` class encapsulates all data (days, times, rooms, instructors) for modular and reusable design.  
+## Limitations:
+- Data is stored temporarily (not saved after closing the program).  
+- Does not include automatic time or room conflict detection.  
+- Single-user mode only; no student or database integration.  
+- Console-based interface (no GUI support).  
+- Requires manual data entry.  
+- No export or print feature for schedules.  
 
 ---
 
-## Technologies Used:
-- **Programming Language:** Java  
-- **Development Environment:** Visual Studio Code  
-- **Java Version:** 17 (recommended)  
-- **Program Type:** Console-based application using Scanner for input/output  
+## Future Improvements:
+- Add permanent file storage and loading features.  
+- Implement conflict detection for overlapping schedules.  
+- Create a graphical interface using JavaFX or Swing.  
+- Integrate database connectivity (e.g., MySQL) for multi-user data storage.  
+- Include report generation (PDF or CSV format).  
 
 ---
 
-## Repository Contents:
-| File/Folder | Description |
-|--------------|-------------|
-| `ClassSchedulingSystem.java` | Main Java source file containing the full program implementation. |
-| `README.md` | Project overview, setup guide, and documentation summary. |
-| `Documentation.pdf` | Official NU-format documentation containing introduction, explanation of data structure, sample input/output, limitations, and future enhancements. |
-| `Screenshots/` | Folder containing sample outputs and menu screenshots from the console. |
+## Documentation:
+Full documentation and screenshots are provided in the following file:  
+[Documentation.pdf](#)  
+(Replace this link with the actual uploaded PDF location once available.)
 
 ---
 
-## How to Run the Program:
-1. Open **Visual Studio Code** or any preferred Java IDE.  
-2. Create or open a folder named `ClassSchedulingSystem`.  
-3. Place the file `ClassSchedulingSystem.java` inside the folder.  
-4. Open the integrated terminal and compile the program:  
+## Conclusion:
+The Class Scheduling System applies fundamental Data Structures and Algorithms concepts by using a HashMap to simulate a real-world class management process.  
+It demonstrates the efficiency of data organization, retrieval, and manipulation, serving as an academic foundation for more complex scheduling and management systems in the future.
+
+---
+
+© 2025 | Final Project – Data Structures and Algorithms  
+Samantha Lui A. Santos
