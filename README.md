@@ -33,7 +33,6 @@ This project fulfills all required objectives:
 ## Documentation:
 Full documentation and screenshots are provided in the following file:  
 [Documentation.pdf](#)  
-(Replace this link with the actual uploaded PDF location once available.)
 
 ---
 
