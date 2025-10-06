@@ -2,7 +2,7 @@
 
 ---
 
-## Project Requirements (as per DSA Instructions):
+## Project Requirements:
 This project fulfills all required objectives:
 1. Input Handling – Accepts user input via Scanner.  
 2. Data Storage – Utilizes a HashMap to store and organize schedule data.  
@@ -42,5 +42,5 @@ It demonstrates the efficiency of data organization, retrieval, and manipulation
 
 ---
 
-© 2025 | Final Project – Data Structures and Algorithms  
+© 2025 | Final Project: Data Structures and Algorithms  
 Samantha Lui A. Santos
