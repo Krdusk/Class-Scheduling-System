@@ -1,7 +1,3 @@
-6. Follow the on-screen options to add, search, edit, delete, or view class schedules.
-
----
-
 ## Project Requirements:
 This project fulfills all required objectives:
 1. Input Handling – Accepts user input via Scanner.  
