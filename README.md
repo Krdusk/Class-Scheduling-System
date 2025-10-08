@@ -34,6 +34,7 @@ Full documentation and screenshots are provided in the following file:
 
 ## Conclusion:
 The Class Scheduling System applies fundamental Data Structures and Algorithms concepts by using a HashMap to simulate a real-world class management process.  
+
 It demonstrates the efficiency of data organization, retrieval, and manipulation, serving as an academic foundation for more complex scheduling and management systems in the future.
 
 ---
