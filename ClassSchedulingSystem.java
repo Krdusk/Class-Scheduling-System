@@ -198,7 +198,7 @@ public class ClassSchedulingSystem {
 
     static String formatTime(String time) {
         time = time.toUpperCase().replaceAll("\\s+", " ").trim();
-        time = time.replaceAll("(?i)(\\d+) ?AM", "$1:00 AM").replaceAll("(?i)(\\d+) ?PM", "$1:00 PM");
+        time = time.replaceAll("(?i)(\\d{1,2})(:\\d{2})?\\s?(AM|PM)", "$1$2 $3");
         return time;
     }
 
